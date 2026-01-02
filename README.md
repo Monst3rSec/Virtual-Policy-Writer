@@ -1,3 +1,6 @@
+
+<img width="1344" height="768" alt="image" src="https://github.com/user-attachments/assets/025f525d-3c46-471a-a425-af54f22e9bc3" />
+
 # Virtual Policy Writer
 
 Generate 25 audit-ready SOC 2 policies in 40 minutes using Claude AI
