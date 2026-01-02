@@ -34,5 +34,7 @@ MIT - Use freely, commercial or personal
 ## Get Help
 
 Issues: GitHub Issues tab
+
 Quick call: Cal.com (https://cal.com/m-d-sathees-kumar/quick-connect?overlayCalendar=true)
+
 Newsletter: newsletter.grcvector.com
